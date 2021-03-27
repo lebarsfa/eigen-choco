@@ -1,0 +1,6 @@
+﻿
+VERIFICATION
+Verification is intended to assist the Chocolatey moderators and community
+in verifying that this package's contents are trustworthy.
+ 
+This package is inspired from https://github.com/nuclearsandwich/eigen-choco and https://github.com/ros2/choco-packages, with minor modifications.

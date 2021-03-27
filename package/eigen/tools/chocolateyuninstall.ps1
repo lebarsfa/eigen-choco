@@ -1,6 +1,6 @@
-﻿$ErrorActionPreference = 'Stop'; # stop on all errors
+﻿$ErrorActionPreference = 'Stop'; # Stop on all errors.
 
-# Source registry key values which are shared between install and uninstall
+# Source registry key values which are shared between install and uninstall.
 . $PSScriptRoot\regKeys.ps1
 
 if (Test-Path $CMakeRegistryPath) {
