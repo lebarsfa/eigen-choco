@@ -1,2 +1,2 @@
-
+**/*.nupkg
 package/eigen/include

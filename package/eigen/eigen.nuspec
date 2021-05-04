@@ -8,7 +8,7 @@
     <title>Eigen</title>
     <authors>Benoît Jacob (founder), Gaël Guennebaud (guru)</authors>
     <projectUrl>http://eigen.tuxfamily.org/index.php</projectUrl>
-    <iconUrl>https://eigen.tuxfamily.org/images/Eigen_Silly_Professor_135x135.png</iconUrl>
+    <iconUrl>https://cdn.statically.io/gh/lebarsfa/Packages/23ed816/choco/icons/Eigen_Silly_Professor_135x135.png</iconUrl>
     <licenseUrl>https://www.mozilla.org/en-US/MPL/2.0/</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <projectSourceUrl>https://gitlab.com/libeigen/eigen</projectSourceUrl>
