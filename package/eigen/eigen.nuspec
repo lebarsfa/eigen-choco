@@ -21,8 +21,7 @@ Eigen provided for use in Windows projects.
 The following package parameters can be set:
 - `/InstallDir:INSTALLDIR` - Installation directory.
 - `/NoRegistry` - Will not try to update Windows registry.
-To pass package parameters, use `--params "''"` (e.g. `choco install eigen --params "'/InstallDir:C:\ /NoRegistry'"`)
-```
+To pass package parameters, use `--params "''"` (e.g. `choco install eigen --params "'/InstallDir:C:\ /NoRegistry'"`).
     </description>
     <releaseNotes>https://gitlab.com/libeigen/eigen/-/releases</releaseNotes>
   </metadata>
